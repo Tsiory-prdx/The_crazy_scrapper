@@ -1,4 +1,4 @@
-# Projet_validant : Le scrappeur fou
+# Projet_validant : Le crazy scrapper
 
 # Pair_programming
 - Tsiory-Prdx 
@@ -15,3 +15,7 @@ Récupération des mairies du Val d'Oise et leurs adresses email depuis le site 
 # 2.4. Cher député 
 
 Récupération de la liste complète des députés de France avec leurs prénom, nom et adresses e-mail depuis le site http://www2.assemblee-nationale.fr/deputes/liste/alphabetique
+
+## Warning:
+
+Pas d'idée pour les tests donc rspec vide :p 
